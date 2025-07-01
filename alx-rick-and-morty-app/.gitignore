@@ -39,3 +39,31 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# log files
+*.log
+# IDEs
+.idea
+.vscode
+*.sublime-workspace
+*.sublime-project
+# macOS
+*.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+# Linux
+*~
+# JetBrains
+*.iml
+# Local history for JetBrains IDEs
+.idea/.idea.history/
+# Local history for VS Code
+
+.vscode/.history/
+# Local history for Sublime Text
+*.sublime-history
+# Local history for Atom
+*.atom-history
+# Local history for Eclipse
+.metadata/
